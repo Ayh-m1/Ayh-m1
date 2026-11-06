@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # ⚡ WELCOME TO MY PROFILE ⚡
@@ -11,7 +12,8 @@
 ### 🌐 MY TECH STACK
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
 </p>
 
 ---
